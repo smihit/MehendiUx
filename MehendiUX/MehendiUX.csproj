@@ -182,6 +182,8 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Pricing.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
